@@ -13,7 +13,7 @@ All configuration for the client is stored in `config/config.json`  Here are the
 # Installation
 This application should be able to run on any Windows or Unix machine. Make sure to fill out your .env and then follow these steps:
 ```
-git clone https://github.com/GeneralElectric/Web-based-Remote-Terminal-Edge-Client
+git clone https://github.com/GeneralElectric/Web-based-Remote-Terminal-Edge-Client.git
 npm start
 ```
 
