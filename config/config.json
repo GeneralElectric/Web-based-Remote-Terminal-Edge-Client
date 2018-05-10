@@ -1,0 +1,24 @@
+{
+    "interface": "en0",
+    "terminalName": "xterm-256color",
+    "terminalColumns": 80,
+    "terminalRows": 24,
+    "apertureEndpoint": "http://localhost:5001",
+    "clientSubOptions": {
+        "connect": "connect",
+        "authenticated": "authenticated",
+        "joinedRoom": "joined room",
+        "userJoinedDevice": "user joined device",
+        "userLeftDevice": "user left device",
+        "terminalData": "terminal data",
+        "resizeTerminal": "resize terminal",
+        "unauthorized": "unauthorized",
+        "disconnect": "disconnect"
+    },
+    "clientPubOptions": {
+        "authentication": "authentication",
+        "joinRoom": "join room",
+        "terminalData": "terminal data"
+      },
+      "logTimestampFormat": "YYYY-MM-DD HH:mm:ss"
+}
